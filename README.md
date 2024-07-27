@@ -16,7 +16,7 @@ I'm TALEB Mohamed Adnane, a passionate Computer Science student with a keen inte
 - **Tools:** Git, GitHub, VS Code
 
 #### Let's Connect:
-- 📧 Email: adnane102464@gmail.com
+- 📧 [Email](adnane102464@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/taleb-mohamedadnane-11a281265/)
 
 Feel free to explore my repositories, star the ones you like, and enjoy the projects!
