@@ -9,7 +9,6 @@ I'm TALEB Mohamed Adnane, a passionate Computer Science student with a keen inte
 
 #### What I'm Up To:
 - 🌟 Following the curriculum of [The Odin Project](https://www.theodinproject.com/) to deepen my understanding of web development.
-- 📖 Exploring classic computer science books to deepen my understanding of fundamental concepts.
 
 #### Skills:
 - **Languages:** C++, HTML, CSS, JavaScript
