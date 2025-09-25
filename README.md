@@ -17,10 +17,6 @@ I’m also interested in **artificial intelligence** and how it can be applied t
 
 ---
 
-### 📫 Let's Connect
-- [LinkedIn](#)  
-
-
 #### Let's Connect:
 - 📧 [Email](mailto:adnane102464@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/taleb-mohamedadnane-11a281265/)
