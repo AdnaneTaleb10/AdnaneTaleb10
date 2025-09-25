@@ -1,20 +1,25 @@
 ### Hi there! 👋
 
-I'm TALEB Mohamed Adnane, a passionate Computer Science student with a keen interest in computers and programming. I love diving into new technologies and constantly strive to enhance my skills.
+# Hello there 👋
 
-#### About Me:
-- 🌐 Currently exploring the depths of web development with a focus on HTML, CSS, and JavaScript.
-- 📚 Building a strong foundation in C++ and solving algorithmic challenges on platforms like LeetCode.
-- 📖 Reading computer science books to deepen my theoretical knowledge.
-- 🚀 Always eager to work on interesting projects.
+I'm Adnane Taleb, a Software Engineering student who enjoys exploring how technology works and how it can be used to solve real problems.  
+I’m especially curious about **web development** and currently learning it through [The Odin Project](https://www.theodinproject.com/), where I take lessons and apply them by building projects.  
 
-#### What I'm Up To:
-- 🌟 Following the curriculum of [The Odin Project](https://www.theodinproject.com/) to deepen my understanding of web development.
-- 🎨 Learning UI/UX design to create more user-centered and visually appealing interfaces.
+I like breaking down concepts, building small projects, and improving step by step.  
+I’m also interested in **artificial intelligence** and how it can be applied to create meaningful solutions.  
 
-#### Skills:
-- **Languages:** C++, HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code
+---
+
+### 🌱 What I'm up to
+- Learning web development with The Odin Project  
+- Building projects to practice and improve my skills  
+- Exploring AI and its real-world applications  
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](#)  
+
 
 #### Let's Connect:
 - 📧 [Email](mailto:adnane102464@gmail.com)
